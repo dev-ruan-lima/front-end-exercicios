@@ -1,0 +1,25 @@
+body{
+    background-color: #fff;
+}
+
+#btn{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: black;
+    color: aqua;
+}
+
+#btn-dois{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#btn-dois:hover{
+    background-color: black;
+    color: aqua;
+}

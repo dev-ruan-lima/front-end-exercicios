@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.dvd {
+    width: 500px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;
+}
+
+.area {
+    padding-left: 13px;
+    padding-top: 13px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.ctd {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-left: 13px;
+    background-color: white;
+}
